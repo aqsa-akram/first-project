@@ -1,4 +1,4 @@
 # first-project
 My first GIT repository.
 <br>
-Author-Aqsa Akram
+Author-Aqsa (Akram)
